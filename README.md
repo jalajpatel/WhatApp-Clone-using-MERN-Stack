@@ -89,11 +89,7 @@ Its build using MERN stack and uses <a href='https://socket.io/'>socket.io</a> f
 <!-- CONTACT -->
 ## Contact
 
-<a target="_blank" href="https://www.linkedin.com/in/jalaj-p-patel-570535226/">
-</a>
-<a target="_blank" href="mailto:jalajpatel050@gmail.com">
-</a> 
-
+"https://www.linkedin.com/in/jalaj-p-patel-570535226/"
 <br>
 <br>
 <br>
